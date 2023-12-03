@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @solareq
+- 🌱 I’m currently learning TS
+- 📫 Collab: solareqdesign@gmail.com
+- 💞️ Discord: rjs.solareq
