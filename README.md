@@ -1,4 +1,1 @@
-- Hi, I’m @solareq
-- I’m currently learning TS
-- Collab: solareqdesign@gmail.com
-- Discord: solareq__
+
